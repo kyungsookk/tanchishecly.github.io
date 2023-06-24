@@ -1,4 +1,4 @@
-#贪吃蛇游戏
+#贪吃蛇游戏:快使用键盘上下左右键控制贪吃蛇吃能量豆吧！失败后请刷新网页，可以重新开始哦！
 
 
 <html lang="en">
@@ -205,6 +205,5 @@ a{text-decoration:none;}
     </div>
     <div style="text-align:center;">
 </div>
-<p>快使用键盘上下左右键控制贪吃蛇吃能量豆吧！失败后请刷新网页，可以重新开始哦！</p>
 </body>
 </html>
