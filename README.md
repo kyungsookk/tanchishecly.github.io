@@ -1,6 +1,6 @@
-# tanchishecly.github.io
+#贪吃蛇游戏
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
